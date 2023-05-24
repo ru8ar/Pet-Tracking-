@@ -1,0 +1,14 @@
+C:\Users\Samet\source\repos\PetProject\PetProject\bin\Debug\PetProject.exe.config
+C:\Users\Samet\source\repos\PetProject\PetProject\bin\Debug\PetProject.exe
+C:\Users\Samet\source\repos\PetProject\PetProject\bin\Debug\PetProject.pdb
+C:\Users\Samet\source\repos\PetProject\PetProject\obj\Debug\PetProject.csproj.AssemblyReference.cache
+C:\Users\Samet\source\repos\PetProject\PetProject\obj\Debug\PetProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samet\source\repos\PetProject\PetProject\obj\Debug\PetProject.form.resources
+C:\Users\Samet\source\repos\PetProject\PetProject\obj\Debug\PetProject.Form2.resources
+C:\Users\Samet\source\repos\PetProject\PetProject\obj\Debug\PetProject.Form3.resources
+C:\Users\Samet\source\repos\PetProject\PetProject\obj\Debug\PetProject.Form33.resources
+C:\Users\Samet\source\repos\PetProject\PetProject\obj\Debug\PetProject.Properties.Resources.resources
+C:\Users\Samet\source\repos\PetProject\PetProject\obj\Debug\PetProject.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\PetProject\PetProject\obj\Debug\PetProject.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\PetProject\PetProject\obj\Debug\PetProject.exe
+C:\Users\Samet\source\repos\PetProject\PetProject\obj\Debug\PetProject.pdb
