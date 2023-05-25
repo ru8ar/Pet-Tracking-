@@ -29,23 +29,23 @@ namespace PetProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form33 gecis = new Form33(); 
-            gecis.Show();
-            this.Hide();
+            //Form33 gecis = new Form33(); 
+            // gecis.Show();
+            //   this.Hide();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form33 gecis = new Form33();
-            gecis.Show();
-            this.Hide();
+            //  Form33 gecis = new Form33();
+            //  gecis.Show();
+            //this.Hide();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Form33 gecis = new Form33();
-            gecis.Show();
-            this.Hide();
+            // Form33 gecis = new Form33();
+            // gecis.Show();
+            // this.Hide();
         }
 
         private void Form2_FormClosing(object sender, FormClosingEventArgs e)
